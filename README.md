@@ -1,1 +1,1 @@
-# estudos-de-inteligencia-artificial
+# Nessa pasta armazeno meus estudos de inteligência artificial
